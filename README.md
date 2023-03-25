@@ -1,2 +1,2 @@
-# birthday-game
-a windows desktop happy birthday game
+# birthday-website
+a happy birthday website
