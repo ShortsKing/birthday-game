@@ -1,2 +1,4 @@
-# Happy Birthday Lukas! 
-I meant to make snake for you but it seems i didn't finish after 4 hours of work in the morning.
+# Sorry...
+### This webpage is currently blocked
+You can view it beginning at 11:59 PM on March 26
+###### Happy Birthday Lukas
